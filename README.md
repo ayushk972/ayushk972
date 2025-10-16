@@ -62,7 +62,7 @@ Uses Python/Django backend and React frontend with Chart.js.
 
 ## 📫 Connect With Me  
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email:** [ayushk972@gmail.com.com](mailto:your-email@example.com)  
 🌐 **Portfolio:** [your-website.com](https://your-website.com)  
 💼 **LinkedIn:** [Your LinkedIn Profile](#)  
 🐦 **Twitter/X:** [@your-handle](#)
