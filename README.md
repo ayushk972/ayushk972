@@ -51,6 +51,8 @@ Features include:
 
 **Tech Stack:** React, Django, REST API, HTML, CSS, JavaScript  
 
+---
+
 
 ### 🛒 [E-Commerce Web App](#)
 Full-stack application built with Django and React.  
