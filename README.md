@@ -39,6 +39,19 @@
 
 ## 🔥 Featured Projects
 
+### ✅ [TaskBuddyMay](https://ayushk972.github.io/taskbuddymay/)
+A **task management web application** built with **React** and **Django**.  
+It helps users efficiently **create, edit, delete, and organize tasks** with an intuitive interface.  
+Features include:
+- 🧾 Add, update, and delete tasks easily  
+- 📅 Mark tasks as completed or pending  
+- ⚡ Responsive UI for seamless experience on all devices  
+- 🔗 Frontend–backend integration using REST APIs  
+- 🚀 Deployed live on [GitHub Pages](https://ayushk972.github.io/taskbuddymay/)
+
+**Tech Stack:** React, Django, REST API, HTML, CSS, JavaScript  
+
+
 ### 🛒 [E-Commerce Web App](#)
 Full-stack application built with Django and React.  
 **Features:** Shopping cart, secure checkout, order tracking, and user authentication.  
