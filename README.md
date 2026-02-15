@@ -77,9 +77,9 @@ Uses Python/Django backend and React frontend with Chart.js.
 
 ## 📫 Connect With Me  
 
-📧 **Email:** [ayushk972@gmail.com.com](mailto:ayushk972@gmail.com)  
+📧 **Email:** [ayushk972@gmail.com](mailto:ayushk972@gmail.com)  
 🌐 **Portfolio:** [your-website.com](https://your-website.com)  
-💼 **LinkedIn:** [Your LinkedIn Profile](#https://www.linkedin.com/in/ayushk972/)  
+💼 **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/ayushk972/)](#https://www.linkedin.com/in/ayushk972/)  
 🐦 **Github:** [@your-handle](#https://wwww.github.com/ayushk972/)
 
 ---
